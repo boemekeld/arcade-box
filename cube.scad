@@ -9,7 +9,7 @@ height        = 56;
 border        = 2;
 fix           = 0.005;
 radius        = 5;
-show_box      = true;
+show_box      = false;
 show_button   = false;
 show_esp32    = false;
 esp32_support = true;
@@ -18,9 +18,9 @@ show_cover    = true;
 
 // USB
 use_usb       = true;
-usb_w         = 13.6;
+usb_w         = 14;
 usb_d         = border;
-usb_h         = 5.5;
+usb_h         = 6;
 usb_padd      = 8;
 
 // Support
