@@ -1,12 +1,16 @@
 # arcade-box
 A Parametric Wall Arcade Box designed in OpenSCAD for 3D printing. Fully customizable layout and dimensions.
 
+![](img/1.png)
+
 ## Main Features
 * **Resizable Grid**: Define the number of buttons in any grid (e.g., 3×2, 3×3, 3×1, 4×4, etc.).
 * **Custom Button Size**: Set button diameter (default 30.1 mm) and height (default 22 mm).
 * **Mechanical Locking Lid**: Secure lid with integrated latch; mount on a wall using double‑sided tape or screws (optional).
 * **ESP32 Support**: Optional holder for an ESP32 board with a 18650 battery.
 * **USB‑C Port Cutout**: Optional opening for a USB‑C connector.
+
+![](img/4.png)
 
 ## Configuration Parameters
 | Parameter                            | Description                                      | Default               |
@@ -31,3 +35,6 @@ A Parametric Wall Arcade Box designed in OpenSCAD for 3D printing. Fully customi
 2. Modify the parameters at the top of the file to suit your design.
 3. Preview with **F5**, render with **F6**.
 4. Export the resulting model as STL and 3D‑print.
+
+![](img/2.png)
+![](img/3.png)

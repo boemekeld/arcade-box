@@ -9,12 +9,12 @@ height        = 56;
 border        = 2;
 fix           = 0.005;
 radius        = 5;
-show_box      = false;
+show_box      = true;
 show_button   = false;
 show_esp32    = false;
 esp32_support = true;
 use_roundbox  = true;
-show_cover    = true;
+show_cover    = false;
 
 // USB
 use_usb       = true;
